@@ -1,6 +1,8 @@
 # Wordle in Hardware
 
-A hardware version of Wordle written in SystemVerilog, built with a partner for a university digital hardware course. It runs on an AMD/Xilinx Kria KV260 FPGA board.
+**full code has not been disclosed, but this is the main working logic we built!!
+
+A hardware version of Wordle written in SystemVerilog, built with a partner. It runs on an AMD/Xilinx Kria KV260 FPGA board.
 
 ## How it works
 
